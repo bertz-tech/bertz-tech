@@ -1,14 +1,18 @@
-First Hello of new account. Please, wait a news.
+> First Hello of new account. Please, wait an update.
 
----
+DIGIΓΔL / IT Roma
 
-- 👋 Hi, I’m @bertz-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+PROJECTS  • git.io/JrJrd<br>
+PINTEREST • pin.it/6B1clrp<br>
+INSTAGRAM • goo.su/8C4<br>
 
-<!---
-bertz-tech/bertz-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An ex creativedirector passed to darkside of force... the coding.
+
+#codes #design #business 
+
+👋 Hello World! I’m @bertz-tech, aka Alberto Marà - Marangelo
+
+<b>CODING; DESIGN; BUSINESS</b><br>
+<i>🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity</i><br>
+🇮🇹 ITA : Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.<br>
+🇬🇧 ENG : I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
