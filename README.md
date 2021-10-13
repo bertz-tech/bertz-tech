@@ -9,11 +9,11 @@
   <div class="align-center">
     &nbsp;
     <a align="center" href="https://www.instagram.com/bertz.works/">
-      <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://pics.freeicons.io/uploads/icons/png/15579522211579517852-512.png" />
+      <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://pics.freeicons.io/uploads/icons/png/17970894061555589660-512.png" />
     </a>
     &nbsp;
-    <a align="center" href="https://twitter.com/profile" disabled>
-      <img alt="Bertz Alberto Marà news" width="30px" src="https://pics.freeicons.io/uploads/icons/png/20422544081555590088-512.png" />
+    <a align="center" href="https://github.com/bertz-tech/" disabled>
+      <img alt="Bertz Alberto Marà news" width="30px" src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-512.png" />
     </a>
     &nbsp;
     <a align="center" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
