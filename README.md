@@ -30,14 +30,22 @@
     &nbsp;
   </div>
   
+"An ex creativedirector passed to darkside of force... the coding."
+
+  <table>
+    <tr>
+      <td align="right" width="50%">
+            🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.| |--:|:--|
+      </td>
+      <td align="left" width="50%">
+            🇮🇹 ITA<br>Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.
+      </td>
+    </tr>
+  </table>
+
+  💖 Support the project
   
-An ex creativedirector passed to darkside of force... the coding.
-
-
-
-  | 🇮🇹 ITA<br>Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.|🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.| |--:|:--|
-
----
+  ---
 
   <!--
     info:
@@ -60,7 +68,7 @@ An ex creativedirector passed to darkside of force... the coding.
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Code-Php-informational?style=flat-square&logo=Php&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Engine-Node-Js-informational?style=flat-square&logo=Node.js&logoColor=white&color=aqua)
+  ![](https://img.shields.io/badge/Node-Js-informational?style=flat-square&logo=Node.js&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Semantic-Web-informational?style=flat-square&logo=Semantic-Web&logoColor=white&color=aqua)
@@ -72,19 +80,7 @@ An ex creativedirector passed to darkside of force... the coding.
   ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
 
-  <!-- Icons -->
-
-  [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-  [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-  <!-- Links to your social media accounts -->
-  
-  [1]: https://twitter.com/Martin_Heinz_
-  [2]: https://www.linkedin.com/in/heinz-martin/
-
 ---
-
-  
   
 <!-- custom on https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
@@ -93,28 +89,14 @@ An ex creativedirector passed to darkside of force... the coding.
 ---
 
 </div>
-<div hidden>
 
-  <!--https://emojipedia.org/emoji/-->
-
-  <!-- find https://www.google.com/search?client=firefox-b-d&q=addme+to+search -->
-  <!-- 
-  🧠
-  💖 Support the project
-  -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-  </a>
-
+<hr>
   
-  <b>CODING; DESIGN; BUSINESS</b><br>
-  <i>🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity</i><br>
-  #codes #design #business 
+  | <small>🧠🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity #codes #design #business </small> | ![visitors](https://visitor-badge.glitch.me/badge?page_id=bertz-tech)|
+  |---|--:|
+  
 
-  page visitors:![visitors](https://visitor-badge.glitch.me/badge?page_id=bertz-tech)
-
-</div>
+<!--
+  find emoji:  https://emojipedia.org/emoji/
+  find https://www.google.com/search?client=firefox-b-d&q=addme+to+search
+-->
