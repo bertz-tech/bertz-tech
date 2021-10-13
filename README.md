@@ -2,10 +2,11 @@
 
 
   BERTZ.WORKS / ARGUFY.COM / DIGIΓΔL / IT ROMA<br>
-  👋 Hello World! I’m @bertz-tech, aka Alberto Marà - Marangelo
+  <b> 👋 Hello World! I’m @bertz-tech, aka Alberto Marà </b> <br>
+  "An ex creativedirector passed to darkside of force... the coding."
 
-  <!-- PROJECTS [git.io/JrJrd](git.io/JrJrd)<br> • PINTEREST [pin.it/6B1clrp](pin.it/6B1clrp) • INSTAGRAM [goo.su/8C4](goo.su/8C4) -->
-
+  <br>
+  
   <div class="align-center">
     &nbsp;
     <a align="center" href="https://www.instagram.com/bertz.works/">
@@ -30,12 +31,14 @@
     &nbsp;
   </div>
   
-"An ex creativedirector passed to darkside of force... the coding."
+
+  <br>
+  
 
   <table>
     <tr>
       <td align="right" width="50%">
-            🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.| |--:|:--|
+            🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
       </td>
       <td align="left" width="50%">
             🇮🇹 ITA<br>Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.
@@ -45,8 +48,10 @@
 
   💖 Support the project
   
-  ---
+  <br>
 
+  ---
+  
   <!--
     info:
     >> How to badge:https://shields.io/category/build
@@ -79,22 +84,20 @@
   ![](https://img.shields.io/badge/Tool-Wamp-informational?style=flat-square&logo=Wattpad&logoColor=white&color=aqua)
   ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
+  ---
 
----
-  
-<!-- custom on https://github-readme-streak-stats.herokuapp.com/demo/ -->
+  <!-- custom on https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 <span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
 
----
+  ---
+
+  | 🚀 ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=bertz-tech&left_color=black&right_color=aqua) 🧠 ![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray) | 
+  |:---|
+  
 
 </div>
 
-<hr>
-  
-  | <small>🧠🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity #codes #design #business </small> | ![visitors](https://visitor-badge.glitch.me/badge?page_id=bertz-tech)|
-  |---|--:|
-  
 
 <!--
   find emoji:  https://emojipedia.org/emoji/
