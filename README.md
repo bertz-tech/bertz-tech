@@ -89,7 +89,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
   <!-- custom on https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
-<span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
+<span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
 
   ---
 
