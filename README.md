@@ -1,5 +1,8 @@
-_this readme is work in progress, come back in a few days to see the news and fix_
 <div align="center">
+
+  _this readme is work in progress, come back in a few days to see the news and fix_
+  <br>
+  <br>
 
 
   BERTZ.WORKS / ARGUFY.COM / DIGIΓΔL / IT ROMA<br>
