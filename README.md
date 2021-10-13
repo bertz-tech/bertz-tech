@@ -7,35 +7,35 @@
   <!-- PROJECTS [git.io/JrJrd](git.io/JrJrd)<br> • PINTEREST [pin.it/6B1clrp](pin.it/6B1clrp) • INSTAGRAM [goo.su/8C4](goo.su/8C4) -->
 
   <div class="align-center">
-    <a align="center" href="https://">
-      <img alt=" " width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    &nbsp;
+    <a align="center" href="https://www.instagram.com/bertz.works/">
+      <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://pics.freeicons.io/uploads/icons/png/15579522211579517852-512.png" />
     </a>
-    <a align="center" href="https://twitter.com/profile">
-      <img alt=" " width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    &nbsp;
+    <a align="center" href="https://twitter.com/profile" disabled>
+      <img alt="Bertz Alberto Marà news" width="30px" src="https://pics.freeicons.io/uploads/icons/png/20422544081555590088-512.png" />
     </a>
-    <a align="center" href="https://www.linkedin.com/in/profile/">
-      <img alt=" " width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    &nbsp;
+    <a align="center" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
+      <img alt="Bertz Allberto Marà linkedin" width="30px" src="https://pics.freeicons.io/uploads/icons/png/17063494911559031673-512.png" />
     </a>
-    <a align="center" href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-      <img alt=" " width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    &nbsp;
+    <a align="center" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
+      <img alt="Bertz Alberto Marà spotify" width="30px" src="https://pics.freeicons.io/uploads/icons/png/16486971491530103324-512.png" />
     </a>
+    &nbsp;
+    <a align="center" href="https://google.com/" disabled>
+      <img alt="Bertz Alberto Marà google" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2630585241548141934-512.png" />
+    </a>
+    &nbsp;
   </div>
   
   
 An ex creativedirector passed to darkside of force... the coding.
 
-#codes #design #business 
 
 
-  | 🇮🇹 ITA<br>Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.|🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.| 
-|--:|:--|
-
-  <br>
- 
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+  | 🇮🇹 ITA<br>Ho iniziato con le cassette nel commodore 64 (all'epoca i floppy erano rari), sono finito a struttura moderni design e software, riga per riga e di codice in codice.|🇬🇧 ENG<br>I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.| |--:|:--|
 
 ---
 
@@ -91,26 +91,30 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
 
 ---
-  <!--
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-    </a>
-  -->
-  
-  <!--https://emojipedia.org/emoji/-->
-
-  🧠
-  💖 Support the project
-
-  
-  
-  <b>CODING; DESIGN; BUSINESS</b><br>
-  <i>🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity</i><br>
 
 </div>
 <div hidden>
-<!-- (page visitors:![visitors](https://visitor-badge.glitch.me/badge?page_id=bertz-tech)) -->
+
+  <!--https://emojipedia.org/emoji/-->
+
+  <!-- find https://www.google.com/search?client=firefox-b-d&q=addme+to+search -->
+  <!-- 
+  🧠
+  💖 Support the project
+  -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  </a>
+
+  
+  <b>CODING; DESIGN; BUSINESS</b><br>
+  <i>🚀 #Coding #Javascript #NodeJs #Unity #CSharp #Blender #Abode #Design #UiUXD #Digital #Creativity</i><br>
+  #codes #design #business 
+
+  page visitors:![visitors](https://visitor-badge.glitch.me/badge?page_id=bertz-tech)
+
 </div>
