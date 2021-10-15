@@ -69,14 +69,22 @@ _this readme is work in progress, come back in a few days to see the news and fi
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
 <hr>
+<span align="left"><table>
+<tr><td> Project0 </td><td> index0 </td></tr>
+<tr><td> Project1 </td><td> index1 </td></tr>
+<tr><td> Project2 </td><td> index2 </td></tr>
+<tr><td> Project3 </td><td> index3 </td></tr>
+<tr><td> Project4 </td><td> index4 </td></tr>
+</table></span><span align="right">
 
-<span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-  ---
+</span>
 
-  |![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=bertz-tech&left_color=black&right_color=aqua) ![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)| 
-  |:---|
-  
+<hr>
+
+|![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=bertz-tech&left_color=black&right_color=aqua) ![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)| 
+|:---:|
 
 </div>
 
@@ -88,4 +96,5 @@ find me on google: https://www.google.com/search?client=firefox-b-d&q=addme+to+s
 How to badge: https://shields.io/category/build
 All icons: https://simpleicons.org/
 custom stats: on https://github-readme-streak-stats.herokuapp.com/demo/
+[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
 -->
