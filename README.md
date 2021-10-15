@@ -16,19 +16,23 @@ _this readme is work in progress, come back in a few days to see the news and fi
     <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/instagram.png" />
   </a>
   &nbsp;
-  <a align="center" href="https://github.com/bertz-tech/" disabled>
+  <a align="center" target="_blank" href="https://github.com/bertz-tech/" disabled>
     <img alt="Bertz Alberto Marà news" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/github.png" />
   </a>
   &nbsp;
-  <a align="center" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
+  <a align="center" target="_blank" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
     <img alt="Bertz Allberto Marà linkedin" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/linkedin.png" />
   </a>
   &nbsp;
-  <a align="center" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
+  <a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
     <img alt="Bertz Alberto Marà spotify" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/spotify.png" />
   </a>
   &nbsp;
-  <a align="center" href="https://google.com/" disabled>
+  <a align="center" target="_blank" href="https://www.pinterest.it/bertz_pins">
+    <img alt="Bertz Alberto Marà spotify" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/pinterest.png" />
+  </a>
+  &nbsp;
+  <a align="center" target="_blank" href="https://google.com/" disabled>
     <img alt="Bertz Alberto Marà google" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/google.png" />
   </a>
   &nbsp;
