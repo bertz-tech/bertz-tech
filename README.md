@@ -44,37 +44,31 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 </td></tr></table>
   
-<br>
-
----
+<hr>
   
-  ## <b>🚀🧠 systems, tools and technologies</b>
+## <b>🚀🧠 systems, tools and technologies</b>
 
-  ![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=Apple&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Cmd-Terminal-informational?style=flat-square&logo=Windows-Terminal&logoColor=white&color=aqua)
-  <br>
-  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Code-Php-informational?style=flat-square&logo=Php&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Node-Js-informational?style=flat-square&logo=Node.js&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Mongo-DB-informational?style=flat-square&logo=MongoDb&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Compiler-PWA-informational?style=flat-square&logo=PWA&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Semantic-Web-informational?style=flat-square&logo=Semantic-Web&logoColor=white&color=aqua)
-  <br>
-  ![](https://img.shields.io/badge/Tool-Atom-informational?style=flat-square&logo=Atom&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat-square&logo=Figma&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Tool-Adobe-informational?style=flat-square&logo=Adobe&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Tool-Wamp-informational?style=flat-square&logo=Wattpad&logoColor=white&color=aqua)
-  ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=Apple&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Cmd-Terminal-informational?style=flat-square&logo=Windows-Terminal&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat-square&logo=Php&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=CSharp&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Node-Js-informational?style=flat-square&logo=Node.js&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Mongo-DB-informational?style=flat-square&logo=MongoDb&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Compiler-PWA-informational?style=flat-square&logo=PWA&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Engine-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Engine-Cordova-informational?style=flat-square&logo=Apache-Cordova&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Semantic-Web-informational?style=flat-square&logo=Semantic-Web&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-Atom-informational?style=flat-square&logo=Atom&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat-square&logo=Figma&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-Adobe-informational?style=flat-square&logo=Adobe&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-Wamp-informational?style=flat-square&logo=Wattpad&logoColor=white&color=aqua)
+![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
-  ---
-
-  <!-- custom on https://github-readme-streak-stats.herokuapp.com/demo/ -->
+<hr>
 
 <span align="left">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</span><span align="right">[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)</span>
 
@@ -90,7 +84,8 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <!--
 info:
 find emoji:  https://emojipedia.org/emoji/
-find https://www.google.com/search?client=firefox-b-d&q=addme+to+search
-How to badge:https://shields.io/category/build
+find me on google: https://www.google.com/search?client=firefox-b-d&q=addme+to+search
+How to badge: https://shields.io/category/build
 All icons: https://simpleicons.org/
+custom stats: on https://github-readme-streak-stats.herokuapp.com/demo/
 -->
