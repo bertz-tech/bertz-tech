@@ -13,23 +13,23 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <div>
   &nbsp;
   <a align="center" href="https://www.instagram.com/bertz.works/">
-    <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://pics.freeicons.io/uploads/icons/png/17970894061555589660-512.png" />
+    <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/instagram.png" />
   </a>
   &nbsp;
   <a align="center" href="https://github.com/bertz-tech/" disabled>
-    <img alt="Bertz Alberto Marà news" width="30px" src="https://pics.freeicons.io/uploads/icons/png/3842828341530103314-512.png" />
+    <img alt="Bertz Alberto Marà news" width="30px" src="hhttps://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/github.png" />
   </a>
   &nbsp;
   <a align="center" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
-    <img alt="Bertz Allberto Marà linkedin" width="30px" src="https://pics.freeicons.io/uploads/icons/png/17063494911559031673-512.png" />
+    <img alt="Bertz Allberto Marà linkedin" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/linkedin.png" />
   </a>
   &nbsp;
   <a align="center" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
-    <img alt="Bertz Alberto Marà spotify" width="30px" src="https://pics.freeicons.io/uploads/icons/png/16486971491530103324-512.png" />
+    <img alt="Bertz Alberto Marà spotify" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/spotify.png" />
   </a>
   &nbsp;
   <a align="center" href="https://google.com/" disabled>
-    <img alt="Bertz Alberto Marà google" width="30px" src="https://pics.freeicons.io/uploads/icons/png/2630585241548141934-512.png" />
+    <img alt="Bertz Alberto Marà google" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/google.png" />
   </a>
   &nbsp;
 </div>
