@@ -17,7 +17,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
   </a>
   &nbsp;
   <a align="center" href="https://github.com/bertz-tech/" disabled>
-    <img alt="Bertz Alberto Marà news" width="30px" src="hhttps://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/github.png" />
+    <img alt="Bertz Alberto Marà news" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/github.png" />
   </a>
   &nbsp;
   <a align="center" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
