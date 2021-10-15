@@ -3,7 +3,7 @@
 _this readme is work in progress, come back in a few days to see the news and fix_
 
 <hr>
-
+  
 <img alt="bertz works tech hub" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/bertz.logo-banner.gif" />
 
 <hr>
@@ -69,17 +69,10 @@ _this readme is work in progress, come back in a few days to see the news and fi
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat-square&logo=Blender&logoColor=white&color=aqua)
 
 <hr>
-<span align="left"><table>
-<tr><td> Project0 </td><td> index0 </td></tr>
-<tr><td> Project1 </td><td> index1 </td></tr>
-<tr><td> Project2 </td><td> index2 </td></tr>
-<tr><td> Project3 </td><td> index3 </td></tr>
-<tr><td> Project4 </td><td> index4 </td></tr>
-</table></span><span align="right">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bertz-tech&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertz-tech&hide=html&hide_border=false&card_width=320&layout=compact&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/> 
 
-</span>
 
 <hr>
 
@@ -91,10 +84,12 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 <!--
 info:
+💬
 find emoji:  https://emojipedia.org/emoji/
 find me on google: https://www.google.com/search?client=firefox-b-d&q=addme+to+search
 How to badge: https://shields.io/category/build
 All icons: https://simpleicons.org/
+custom start themifing: &langs_count=7&text_color=ffffff&title_color=ffffff&icon_color=aqua&bg_color=0,white,gray
 custom stats: on https://github-readme-streak-stats.herokuapp.com/demo/
 [![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
 -->
