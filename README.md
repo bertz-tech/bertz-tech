@@ -93,7 +93,6 @@ find emoji:  https://emojipedia.org/emoji/
 find me on google: https://www.google.com/search?client=firefox-b-d&q=addme+to+search
 How to badge: https://shields.io/category/build
 All icons: https://simpleicons.org/
-custom start themifing: &langs_count=7&text_color=ffffff&title_color=ffffff&icon_color=aqua&bg_color=0,white,gray
-custom stats: on https://github-readme-streak-stats.herokuapp.com/demo/
+custom stats: on https://github.com/anuraghazra/github-readme-stats
 [![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
 -->
