@@ -75,7 +75,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <hr>
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e&hide_border=false&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/> 
+<img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e&hide_border=false&&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/> 
 
 
 <hr>
