@@ -41,7 +41,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <br>
   
 <b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / ARGUFY.COM<b>
-👋 Hello World! I’m @bertz-tech, aka Alberto Marà </b> <br>
+👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b> <br>
 `"An ex creativedirector passed to darkside of force... the coding."`
 <br>
 56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
@@ -74,8 +74,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 <hr>
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/>
-<img height="140px" src="https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz-tech&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
 
 <hr>
 
@@ -93,6 +92,9 @@ find emoji:  https://emojipedia.org/emoji/
 find me on google: https://www.google.com/search?client=firefox-b-d&q=addme+to+search
 How to badge: https://shields.io/category/build
 All icons: https://simpleicons.org/
-custom stats: on https://github.com/anuraghazra/github-readme-stats +++ &hide=html&hide_border=false&card_width=320&layout=compact&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok
-[![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
+custom stats:
+  on https://github.com/anuraghazra/github-readme-stats +++ &hide=html&hide_border=false&card_width=320&layout=compact&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok
+  [![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"
+
 -->
