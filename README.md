@@ -78,7 +78,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 <hr>
 
-| ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=bertz-tech&left_color=black&right_color=aqua) | ![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)| 
+| ![visitors](https://visitor-badge.glitch.me/badge?style=flat-square&page_id=bertz-tech&left_color=black&right_color=aqua)|![](https://img.shields.io/badge/_-Development-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Programming-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Business-informational?style=flat&logo=Sharp&logoColor=white&color=gray)&nbsp;![](https://img.shields.io/badge/_-Design-informational?style=flat&logo=Sharp&logoColor=white&color=gray) ![](https://img.shields.io/badge/#-UiUXD-informational?style=flat&color=gray)| 
 |:---:|:---:|
 
 
