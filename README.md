@@ -12,7 +12,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <br>
 <div>
   &nbsp;
-  <a align="center" href="https://www.instagram.com/bertz.works/">
+  <a align="center" href="https://www.instagram.com/bertz.tech/">
     <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/instagram.png" />
   </a>
   &nbsp;
