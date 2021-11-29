@@ -40,7 +40,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 <br>
   
-<b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / ARGUFY.COM<b>
+<b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b>
 👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b> <br>
 `"An ex creativedirector passed to darkside of force... the coding."`
 <br>
