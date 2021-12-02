@@ -4,7 +4,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 <hr>
   
-<img alt="bertz works tech hub" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/bertz.logo-banner.gif" />
+<img alt="bertz works tech hub" src="./resources/bertz.logo-banner.gif" />
 
 <hr>
 
@@ -13,27 +13,27 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <div>
   &nbsp;
   <a align="center" href="https://www.instagram.com/bertz.tech/">
-    <img alt="Bertz Alberto Marà isntagram" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/instagram.png" />
+    <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
   </a>
   &nbsp;
   <a align="center" target="_blank" href="https://github.com/bertz-tech/" disabled>
-    <img alt="Bertz Alberto Marà news" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/github.png" />
+    <img alt="Bertz Alberto Marà news" width="30px" src="./resources/github.png" />
   </a>
   &nbsp;
   <a align="center" target="_blank" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
-    <img alt="Bertz Allberto Marà linkedin" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/linkedin.png" />
+    <img alt="Bertz Allberto Marà linkedin" width="30px" src="./resources/linkedin.png" />
   </a>
   &nbsp;
   <a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
-    <img alt="Bertz Alberto Marà spotify" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/spotify.png" />
+    <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/spotify.png" />
   </a>
   &nbsp;
   <a align="center" target="_blank" href="https://www.pinterest.it/bertz_pins">
-    <img alt="Bertz Alberto Marà spotify" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/pinterest.png" />
+    <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
   </a>
   &nbsp;
   <a align="center" target="_blank" href="https://google.com/" disabled>
-    <img alt="Bertz Alberto Marà google" width="30px" src="https://raw.githubusercontent.com/bertz-tech/bertz-tech/main/resources/google.png" />
+    <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
   </a>
   &nbsp;
 </div>
