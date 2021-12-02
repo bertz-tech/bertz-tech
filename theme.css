@@ -1,0 +1,225 @@
+@import './assets/fonts/fonts.css';
+
+:root {
+
+    --shade:       linear-gradient(to right bottom, #00ffff, #0085ff);
+    --color:     #00FFFF;
+    --black:     #191F31;
+    --dark:      #00000054;
+    --white:     #FCFCFC;
+    --light:     #FFFFFF3B;
+    --base_pad:    10px;
+    --base_space:  2%;
+    --base_radius: 10px;
+    --text_super:  clamp(40px,4.0vw,75px);
+    --text_big:    clamp(21px,2.5vw,30px);
+    --text_medium: clamp(16px,1.8vw,20px);
+    --text_normal: clamp(13px,1.5vw,16px);
+    --text_small:  clamp(10px,1.4vw,12px);
+
+}
+
+
+.box-warning>p{
+    justify-content: center;
+    padding: 10px;
+    color: #ffc400;
+    font-weight: bolder;
+}
+
+/*=====================*/
+
+
+
+html,
+body {
+
+    background: var(--black);
+    font-family: 'Century Gothic Paneuropean','Helvetica','Verdata',Monospace;
+    color: var(--white);
+    font-size: var(--text_normal);
+    
+}
+
+
+body>.limiter>div {
+
+    overflow: clip;    
+    margin: var(--base_space);
+    border-radius: var(--base_radius);
+    background: url(./assets/media/bkg.head.top.left.jpg) left top no-repeat var(--dark);
+    background-size: 93% auto;
+
+}
+
+@media only screen{
+    @media(min-width : 768px) {body>.limiter>div{padding:0 10%;} }
+    @media (max-width : 768px) {body>.limiter>div{padding:0;} }
+}
+
+
+/*=====================*/
+
+
+article>section,
+article>header {
+
+    padding: calc(var(--base_space)*2);
+
+}
+
+article>header img[src$='bkg.head.faceprofile.png'] {
+
+    width: 376px;
+    height: 634px;
+    min-height: 100%;
+
+}
+
+@media only screen{
+
+    @media(min-width : 768px) {
+
+        article>header{flex-flow: row;}
+
+        article>header>hgroup:first-of-type{width:66%;}
+        article>header>hgroup:last-of-type{width:33%;}
+
+        article>header img[src$='bkg.head.faceprofile.png'] {
+
+            position: absolute;
+
+        }
+
+        article>header img[src$='img.bertz.logo.svg'] {
+
+            max-width: 130px;
+            margin: 40px 0 40px 0;
+        
+        }
+
+
+    }
+
+    @media (max-width : 767px) {
+
+        article>header{flex-flow: column-reverse;}
+        article>header * {justify-content: center;text-align: center;margin: 0 auto;}
+        article>header>hgroup:first-of-type{z-index:2;}
+        article>header>hgroup:last-of-type{z-index:1;}
+        article>header>hgroup{width:100%;}
+
+        article>header img[src$='img.bertz.logo.svg'] {
+
+            max-width: 160px;
+            margin: 40px auto;
+        
+        }
+
+        article>header img[src$='bkg.head.faceprofile.png'] {
+
+            position: relative;
+            padding-right: 9vw;
+            margin: 0 auto -200px;
+            height: auto;
+            max-width: 90%;
+
+        }
+
+    }
+}
+
+article h1 {
+
+    font-size: var(--text_super);
+    font-weight: 700;
+    margin: 20px 0 30px 0;
+    line-height: 95%;
+
+}
+
+article h2 {
+
+    font-size: var(--text_big);
+    font-weight: 300;
+    margin-bottom: 30px;
+    max-width: 400px;
+
+}
+
+article h3 {
+
+    font-size: var(--text_big);
+    font-weight: 900;
+    margin-bottom: 30px;
+
+}
+
+
+article>header em {
+
+    font-size: var(--text_medium);
+    font-style: normal;
+    font-weight: 700;
+
+    background: var(--shade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
+}
+
+article p {
+    font-size: var(--text_normal);
+    letter-spacing: .12vw;
+    line-height: 180%;
+}
+
+article section:first-of-type>p:first-of-type {
+    font-size: var(--text_medium);
+    font-weight: 900;
+}
+
+article p+p {
+
+    margin-top: 30px;
+}
+
+
+/*=====================*/
+
+
+nav:first-of-type {
+
+    clear: both;
+    padding: calc(var(--base_space)*2);
+
+}
+
+nav:first-of-type ul:first-of-type {
+
+    float: left;
+    
+}
+
+nav:first-of-type ul:last-of-type {
+
+    float: right;
+    padding: 4px;
+    border-radius: calc(var(--base_radius)/4);
+    background: var(--light);
+
+}
+
+nav:first-of-type li  {
+
+    padding: calc(var(--base_space)/4);
+    margin: 4px;
+
+}
+
+nav:first-of-type li img {
+
+    width: calc(var(--text_big)/1.3);
+
+}

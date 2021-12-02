@@ -1,0 +1,333 @@
+/*
+    customized web ui reset
+    WARNING: IT'S HORRIBLE BETA!
+*/
+
+
+* {
+
+    /*base properties*/
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+
+    /*text properties*/
+    direction: ltr;
+    overflow-wrap: anywhere;
+    text-decoration: none;
+    letter-spacing:initial;
+    word-spacing: normal;
+    word-break: keep-all;
+    word-wrap: break-word;
+    font-family: var(--fontfamily);
+    font-size-adjust: none;
+    font-weight: lighter;
+    font-size: 1em;
+
+    /*design propreties*/
+    border: 0;
+    outline: none;
+    outline-width: 0;
+    outline-color: transparent;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-focus-ring-color: transparent;
+
+}
+
+*,
+*:hover,
+*:active,
+*:focus {
+
+    outline-width: 0px;
+    outline-color: transparent;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-focus-ring-color: transparent;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+}
+
+*:not(html,body) {
+
+    /*render animation*/
+    transition: ease .25s;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-style: flat;
+    backface-visibility: hidden;
+    transform-style: flat;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+
+}
+
+html {
+
+    width: 100vw;
+    height: 100vh;
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+
+}
+
+
+body {
+
+    display: block;
+
+    height:inherit;
+    width: inherit;
+    max-width: 100%;
+    max-height: 100%;
+
+    scroll-behavior: smooth;
+	-webkit-overflow-scrolling: touch;
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+
+    overflow-y: auto;
+    overflow-x: auto;
+
+    /*white-space: pre-line;*/
+
+}
+
+style,
+script {
+
+    width:0;
+    height: 0;
+    overflow: hidden;
+    display: none;
+    position: absolute;
+    z-index: -1;
+
+}
+
+
+iframe,
+frameset,
+noframes {
+
+    background: inherit;
+    overflow: hidden;
+
+}
+
+iframe,
+frameset,
+noframes,
+article,
+header,
+div {
+
+    display: flex;
+    flex-flow:column;
+    align-items: stretch;
+
+}
+
+nav{
+    display: block;
+}
+
+
+[draggable],
+[draggable] *:not(input),
+[class*=grabslot-],
+[class*=grabslot-] *:not(input) {
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+svg, [src$=".svg"] {
+
+    image-rendering:crisp-edges;
+
+}
+
+
+svg, image,img {
+
+    display: flex;
+    width: 100%;
+    line-height: 0;
+    overflow: hidden;
+
+}
+
+br,
+hr {
+
+    display: block;
+    width: 100%;
+    height: 0;
+    page-break-after: always;
+    break-after: always;
+    break-before: always;
+
+}
+
+
+
+h1,         /*title*/
+h2,         /*title*/
+h3,         /*title*/
+h4,         /*title*/
+h5,         /*title*/
+h6,         /*title*/
+a,          /*links*/
+p,          /*paragraph*/
+u,ins,      /*subline misspelled words*/
+b,          /*bold text without any importance*/
+strong,     /*seo bold*/
+i,em,        /*italic*/
+caption,    /*ad image description*/
+q,          /*quoted*/
+cite,       /*"defines the title of a creative work" || citation attribute url <p cite="url.com"></p>*/
+s,del,       /*graphical strike uncorrect, tag for deleted*/
+mark,       /*highlighted*/
+small,      /*sub importance text*/
+big,        /*W3C-OSOLETE*/
+pre,        /*defines preformatted text*/
+var,        /*used only for math expression, graphically it's alternative of i*/
+code,       /*view a piece of computer code*/
+samp,       /*inline code outputs*/
+dfn,        /**inline narked subject title of a wiki definition*/
+kbd,        /*keyboard key or shortcuts*/
+ul,         /*unorder list*/
+ol,         /*ordered stepped list*/
+li,         /*un/orderered list item*/
+dl,         /*list of definitions*/
+dt,         /*definition title*/
+dd,         /*definition data*/
+th          /*table head element*/ {
+
+    display: flex;
+    text-rendering: optimizeSpeed;
+    transition: ease font-size .25s;
+
+}
+
+h1>*,
+h2>*,
+h3>*,
+h4>*,
+h5>*,
+h6>*,
+a>*,
+p>*,
+caption>*,
+q>*,
+small>*,
+big>* {
+
+    display: inline-flex;
+    vertical-align: baseline;
+
+}
+
+span {
+    display: inline-flex;
+    width: auto;
+}
+
+sup {
+
+    font-size: .65rem;
+    vertical-align: text-top;
+
+}
+
+sub {
+
+    font-size: .65rem;
+    vertical-align: text-bottom;
+
+}
+
+a {
+
+    cursor: pointer;
+
+}
+
+b {
+
+    font-weight: bold;
+
+}
+
+samp,
+var,
+kbd,
+dfn,
+mark {
+
+    font-style: unset;
+
+}
+
+pre,
+samp,
+code,
+kbd,
+output {
+
+    font-family: 'Courier New' , 'Book' , 'Incosolata' , 'Consolas' , monospace , initial ;
+
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    tab-size: 2;
+    -webkit-hyphens: none;
+    hyphens: none;
+
+
+}
+
+
+.limiter {
+
+    margin: 0 auto;
+    width: 100%;
+    min-height: 100%;
+
+}
+
+/* Large Devices & Desktop */
+@media only screen 
+{
+
+    @media (min-width : 1200px) {
+        .limiter{
+            max-width: 1420px;
+        }
+    }
+
+    /* Medium Devices & Tablets */
+    @media (max-width : 1200px) {
+        .limiter{
+            max-width: 768px;
+            
+        }
+    }
+
+    /* Small Devices & Phone */
+    @media (max-width : 768px) {
+        .limiter{
+            max-width: 100%;
+        }
+    }
+}
