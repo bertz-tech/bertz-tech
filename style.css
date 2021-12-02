@@ -1,0 +1,267 @@
+/*
+    customized web ui reset
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
+
+
+:root {
+
+
+    --black: #000;
+    --white: #fff;
+
+    --fontfamily: 'Lato', 'Helvetica', 'Verdana', 'sans-serif';
+
+
+}
+
+
+style,
+script {
+
+    width:0;
+    height: 0;
+    overflow: clip;
+    display: none;
+    position: fixed;
+    z-index: -1;
+
+}
+
+
+html {
+
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100vw;
+	max-height: 100vh;
+    position: relative;
+    overflow: clip;
+    outline: none;
+    border: 0, collapse;
+    transition: ease font-size .25s;
+    -webkit-backface-visibility: hidden;
+    -webkit-transform-style: flat;
+    backface-visibility: hidden;
+    transform-style: flat;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+
+    direction: ltr;
+    text-decoration: none;
+    letter-spacing:initial;
+    word-spacing: normal;
+    word-break: keep-all;
+    word-wrap: break-word;
+    font-family: var(--fontfamily);
+    font-size-adjust: none;
+    font-weight: lighter;
+    font-size: 1em;
+
+    outline-width: 0px;
+    outline-color: transparent;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-focus-ring-color: transparent;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+}
+
+
+body {
+
+    min-height: 100vh;
+    overflow-y: auto;
+    overflow-x: clip;
+    scroll-behavior: smooth;
+	-webkit-overflow-scrolling: touch;
+    touch-action: manipulation;
+    -webkit-touch-callout: none;
+
+}
+
+
+iframe,
+frameset,
+noframes {
+
+    background: inherit;
+    overflow: hidden;
+
+}
+
+
+[draggable],
+[draggable] *:not(input),
+[class*=grabslot-],
+[class*=grabslot-] *:not(input) {
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+
+/*
+*,
+*:hover,
+*:active,
+*:focus {
+
+    outline-width: 0px;
+    outline-color: transparent;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-focus-ring-color: transparent;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+
+}
+*/
+
+svg, [src$=".svg"] {
+
+    image-rendering:crisp-edges;
+
+    width: 100%;
+    height: 100%;
+    line-height: 0;
+
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+}
+
+
+image,img {
+
+    max-width: 100%;
+    max-height: 100%;
+    line-height: 0;
+    overflow: hidden;
+
+}
+
+
+br,
+hr {
+
+    display: block;
+    width: 100%;
+    height: 0;
+    page-break-after: always;
+    break-after: always;
+    break-before: always;
+
+}
+
+
+h1,         /*title*/
+h2,         /*title*/
+h3,         /*title*/
+h4,         /*title*/
+h5,         /*title*/
+h6,         /*title*/
+a,          /*links*/
+p,          /*paragraph*/
+u,ins,      /*subline misspelled words*/
+b,          /*bold text without any importance*/
+strong,     /*seo bold*/
+i,em        /*italic*/
+caption,    /*ad image description*/
+q,          /*quoted*/
+cite,       /*"defines the title of a creative work" || citation attribute url <p cite="url.com"></p>*/
+s,del       /*graphical strike uncorrect, tag for deleted*/
+mark,       /*highlighted*/
+small,      /*sub importance text*/
+big,        /*W3C-OSOLETE*/
+pre,        /*defines preformatted text*/
+var,        /*used only for math expression, graphically it's alternative of i*/
+code,       /*view a piece of computer code*/
+samp,       /*inline code outputs*/
+dfn,        /**inline narked subject title of a wiki definition*/
+kbd,        /*keyboard key or shortcuts*/
+ul,         /*unorder list*/
+ol,         /*ordered stepped list*/
+li,         /*un/orderered list item*/
+dl,         /*list of definitions*/
+dt,         /*definition title*/
+dd,         /*definition data*/
+th          /*table head element*/ {
+
+    display: inline-block;
+    text-rendering: optimizeSpeed;
+    white-space: normal;
+
+}
+
+p>*
+{
+    display: inline;
+    vertical-align: baseline;
+}
+
+sup {
+
+    font-size: .65rem;
+    vertical-align: text-top;
+
+}
+sub {
+
+    font-size: .65rem;
+    vertical-align: text-bottom;
+
+}
+
+a {
+
+    cursor: pointer;
+
+}
+
+
+b {
+
+    font-weight: bold;
+
+}
+
+
+samp,
+var,
+kbd,
+dfn,
+mark {
+
+    font-style: unset;
+
+}
+
+
+pre,
+samp,
+code,
+kbd,
+output {
+
+    font-family: 'Courier New' , 'Book' , 'Incosolata' , 'Consolas' , monospace , initial ;
+
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    tab-size: 2;
+    -webkit-hyphens: none;
+    hyphens: none;
+
+
+}
