@@ -7,7 +7,7 @@
     --black:     #191F31;
     --dark:      #00000054;
     --white:     #FCFCFC;
-    --light:     #FFFFFF3B;
+    --light:     #FFFFFF1A;
     --base_pad:    10px;
     --base_space:  2%;
     --base_radius: 10px;
@@ -25,6 +25,11 @@
     padding: 10px;
     color: #ffc400;
     font-weight: bolder;
+}
+
+disabled
+{
+    opacity: .5;
 }
 
 /*=====================*/
