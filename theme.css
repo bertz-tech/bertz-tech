@@ -19,6 +19,13 @@
 
 }
 
+.shadow-static,
+.shadow-dynamic {
+    box-shadow: 0 4px 4px #00000054, 0 0 12px #00F0FFB8; 
+}
+.shadow-dynamic:hover {
+    box-shadow: 0 0 1rem .25rem white inset, 0 -1px 10px 3px #00000054, 0 4px 27px #00f0ffb8; 
+}
 
 .box-warning>p{
     justify-content: center;
@@ -27,7 +34,7 @@
     font-weight: bolder;
 }
 
-disabled
+[disabled]
 {
     opacity: .5;
 }
@@ -66,6 +73,33 @@ body>.limiter>div {
 /*=====================*/
 
 
+.overlay{
+    z-index: -1;
+    visibility: 0;
+    width: 0;
+    height: 0;
+}
+.overlay[open] {
+
+    transition: opacity 1s;
+    position: fixed;
+    z-index: 900;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width:100%;
+    max-width: 100%;
+    height:100%;
+    max-height: 100%;
+    background: #131a30b8;
+    box-shadow: 0 0 1000vw var(--black) inset;
+}
+
+
+/*=====================*/
+
+
 article>section,
 article>header {
 
@@ -83,7 +117,7 @@ article>header img[src$='bkg.head.faceprofile.png'] {
 
 @media only screen{
 
-    @media(min-width : 768px) {
+    @media ( min-width : 768px ) {
 
         article>header{flex-flow: row;}
 
@@ -106,7 +140,7 @@ article>header img[src$='bkg.head.faceprofile.png'] {
 
     }
 
-    @media (max-width : 767px) {
+    @media ( max-width : 767px ) {
 
         article>header{flex-flow: column-reverse;}
         article>header * {justify-content: center;text-align: center;margin: 0 auto;}
@@ -174,15 +208,27 @@ article>header em {
 
 }
 
+@media only screen {
+
+    @media ( min-width : 768px ) { article>header:first-of-type>img:last-of-type{ display: none; height: 0; margin: 0} }
+    @media ( max-width : 768px ) { article>header:first-of-type>img:last-of-type{ display: unset; height: auto; margin: -3vw auto;} }
+
+}
+
+
 article p {
+
     font-size: var(--text_normal);
     letter-spacing: .12vw;
     line-height: 180%;
+
 }
 
 article section:first-of-type>p:first-of-type {
+
     font-size: var(--text_medium);
     font-weight: 900;
+
 }
 
 article p+p {
@@ -226,5 +272,137 @@ nav:first-of-type li  {
 nav:first-of-type li img {
 
     width: calc(var(--text_big)/1.3);
+
+}
+
+
+
+/*====================*/
+
+
+.grid-bar {
+
+    display: grid;
+	position: relative;
+	gap: 2vw;
+	grid-template-rows:  minmax(0, max-content);
+    margin: var(--text_super) 0;
+
+}
+
+
+
+@media only screen {
+
+    @media (min-width : 768px) {.grid-bar{grid-template-columns: repeat(2,1fr);} }
+    @media (max-width : 768px) {.grid-bar{grid-template-columns: repeat(1,1fr);} }
+
+}
+
+
+/*=====================*/
+
+.meter label {
+
+    font-size: var(--text_small);
+    margin-bottom: var(--base_pad);
+    clear: both;
+
+}
+.meter label span {
+
+    float: right;
+
+}
+.meter div{
+
+    position: relative;
+    background: var(--dark);
+    height: var(--text_small);
+    border-radius: calc(var(--base_radius)/5);
+
+}
+
+.meter div>span {
+
+    height: inherit;
+    border-radius: inherit;
+    position: absolute;
+    background: var(--shade);
+    font-size: 0;
+    width: 1%;
+}
+
+
+.meter>div[data-value='10']>span { width: 10%; }
+.meter>div[data-value='20']>span { width: 20%; }
+.meter>div[data-value='30']>span { width: 30%; }
+.meter>div[data-value='40']>span { width: 40%; }
+.meter>div[data-value='50']>span { width: 50%; }
+.meter>div[data-value='60']>span { width: 60%; }
+.meter>div[data-value='70']>span { width: 70%; }
+.meter>div[data-value='80']>span { width: 80%; }
+.meter>div[data-value='90']>span { width: 90%; }
+.meter>div[data-value='100']>span { width: 100%; }
+
+
+/*=====================*/
+
+
+dfn:first-of-type{
+
+    margin-left: 0;
+
+}
+
+dfn {
+
+    background: var(--dark);
+    border-radius: calc(var(--base_radius)/5);
+    padding: calc(var(--base_pad)/2) var(--base_pad);
+    margin: var(--base_pad);
+}
+
+.pop-definition{
+    cursor: help;
+}
+
+.pop-definition strong{
+    z-index: -1;
+    visibility: 0;
+    opacity: 0;
+    height: 0;
+    width: 0;
+}
+
+.pop-definition[open] strong {
+
+    transition: opacity 1s;
+    opacity: 1;
+    position: fixed;
+    z-index: 999;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 450px;
+    height: auto;
+    max-width: 90vw;
+    padding: var(--base_pad);
+    border-radius: var(--base_radius);
+    background: var(--white);
+    color: var(--black);
+    box-shadow: 0 0 0 10px var(--dark), 0px 10px 50px var(--dark);
+
+}
+.pop-definition strong::after {
+ 
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: white;
+    content: '✖ clicca ovunque per chiudere';
+    width: 100%;
+    text-align: center;
+    margin-bottom: -50px;
 
 }
