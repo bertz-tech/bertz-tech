@@ -250,6 +250,7 @@ nav:first-of-type {
 nav:first-of-type ul:first-of-type {
 
     float: left;
+    flex-wrap: unset;
     
 }
 
@@ -259,6 +260,7 @@ nav:first-of-type ul:last-of-type {
     padding: 4px;
     border-radius: calc(var(--base_radius)/4);
     background: var(--light);
+    flex-wrap: unset;
 
 }
 
@@ -349,23 +351,29 @@ nav:first-of-type li img {
 /*=====================*/
 
 
-dfn:first-of-type{
-
-    margin-left: 0;
-
-}
-
-dfn {
+.pop-definition {
 
     background: var(--dark);
     border-radius: calc(var(--base_radius)/5);
-    padding: calc(var(--base_pad)/2) var(--base_pad);
     margin: var(--base_pad);
+    overflow: hidden;
 }
 
-.pop-definition{
+.pop-definition>*:not(strong){
+
     cursor: help;
+
+} 
+.pop-definition i{
+    background: var(--light);
+    padding: 3px;
 }
+
+.pop-definition dfn{
+    background: var(--dark);
+    padding: 3px 9px;
+}
+
 
 .pop-definition strong{
     z-index: -1;
@@ -383,11 +391,11 @@ dfn {
     z-index: 999;
     top: 50%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%) translateY(-50%);
     width: 450px;
     height: auto;
     max-width: 90vw;
-    padding: var(--base_pad);
+    padding: calc(var(--base_pad)*2);
     border-radius: var(--base_radius);
     background: var(--white);
     color: var(--black);

@@ -189,11 +189,11 @@ p,          /*paragraph*/
 u,ins,      /*subline misspelled words*/
 b,          /*bold text without any importance*/
 strong,     /*seo bold*/
-i,em,        /*italic*/
+i,em,       /*italic*/
 caption,    /*ad image description*/
 q,          /*quoted*/
 cite,       /*"defines the title of a creative work" || citation attribute url <p cite="url.com"></p>*/
-s,del,       /*graphical strike uncorrect, tag for deleted*/
+s,del,      /*graphical strike uncorrect, tag for deleted*/
 mark,       /*highlighted*/
 small,      /*sub importance text*/
 big,        /*W3C-OSOLETE*/
@@ -212,6 +212,7 @@ dd,         /*definition data*/
 th          /*table head element*/ {
 
     display: flex;
+    flex-flow: wrap;
     text-rendering: optimizeSpeed;
     transition: ease font-size .25s;
 
@@ -330,4 +331,23 @@ output {
             max-width: 100%;
         }
     }
+}
+
+.float-group{
+
+    clear: both;
+
+} 
+.float-left{
+
+    float: left;
+    flex-wrap: unset;
+
+}
+
+.float-right{
+
+    float: right;
+    flex-wrap: unset;
+
 }
