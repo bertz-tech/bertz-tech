@@ -12,7 +12,7 @@ window.onload = () =>{
     document.querySelectorAll('.overlay')[0]
         .onclick = ev_overlay_controller =>{
             let opens = document.querySelectorAll('*[open]')
-            for (let o of opens) o.removeAttribute('open') 
+            for (let o of opens) if(!o.classList.contains('content-cut')) o.removeAttribute('open') 
             ev_overlay_controller = null
         }
 
@@ -26,7 +26,7 @@ window.onload = () =>{
 
         box.onclick = ev_dfn_controller => {
 
-            if (!box.open) {
+            if (!box.hasAttribute('open')) {
 
                 for(let b of dfnboxes) { b.removeAttribute('open') }
                 box.setAttribute('open','')
@@ -46,6 +46,30 @@ window.onload = () =>{
         }
 
     }
-        
 
+    //
+    // ctrl => more of dfn
+    //
+        
+    var btnmore = document.querySelectorAll('.more>button')[0];
+
+    btnmore.onclick = ev_more_controller =>{
+
+        let contentbox = document.querySelectorAll('.content-cut')[0]
+
+        if(!contentbox.hasAttribute('open')) {
+
+            contentbox.setAttribute('open','') 
+            btnmore.innerHTML='Riduci'
+
+        } else {
+
+            contentbox.removeAttribute('open') 
+            btnmore.innerHTML='Espandi'
+
+        }
+
+        ev_more_controller = null
+
+    }
 }

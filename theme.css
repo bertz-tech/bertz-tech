@@ -333,6 +333,7 @@ nav:first-of-type li img {
     background: var(--shade);
     font-size: 0;
     width: 1%;
+
 }
 
 
@@ -412,5 +413,87 @@ nav:first-of-type li img {
     width: 100%;
     text-align: center;
     margin-bottom: -50px;
+
+}
+
+
+
+
+@media only screen {
+
+    @media (min-width : 768px) {
+        
+        .content-cut {
+
+            height: unset;
+
+        }
+
+
+        .more {
+
+            display: none;
+
+        }
+
+    }
+
+    @media (max-width : 768px) {
+
+        .content-cut {
+
+            height: 250px;
+            overflow: hidden;
+
+        }
+        .more {
+
+            background: linear-gradient(0deg, #111521 7%, transparent );
+
+            height: 300px;
+            position: absolute;
+            bottom: 0;
+            justify-content: end;
+            width: 100%;
+            padding: calc(var(--base_radius)*2);
+
+        }
+
+        .content-cut[open] {
+
+            height: auto;
+            padding-bottom: 80px;
+            background: transparent;
+
+        }
+
+        .content-cut[open] .more {
+            height: unset;
+        }
+
+        .content-cut[open] .more:hover {
+
+            background: var(--dark);
+
+        }
+
+    }
+
+}
+
+
+button {
+
+    border-radius: var(--base_radius);
+    padding: var(--base_pad);
+    background: var(--light);
+    color: var(--white);
+
+}
+
+button:hover {
+
+    background: var(--shade);
+    box-shadow: 0 0 1rem .25rem white inset, 0 -1px 10px 3px #00000054, 0 4px 27px #00f0ffb8; 
 
 }
