@@ -25,7 +25,8 @@
     font-family: var(--fontfamily);
     font-size-adjust: none;
     font-weight: lighter;
-    font-size: 1em;
+    font-size: inherit;
+    color: inherit;
 
     /*design propreties*/
     border: 0;

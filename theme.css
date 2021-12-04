@@ -224,12 +224,15 @@ article>header em {
 }
 
 
-article p {
+article p, a{
 
     font-size: var(--text_normal);
     letter-spacing: .12vw;
     line-height: 180%;
 
+}
+article a {
+    font-weight: 700;
 }
 
 article section:first-of-type>p:first-of-type {
