@@ -28,10 +28,11 @@
 }
 
 .box-warning>p{
-    justify-content: center;
     padding: 10px;
-    color: #ffc400;
+    justify-content: center;
+    text-align: center;
     font-weight: bolder;
+    color: #ffc400;
 }
 
 [disabled]
@@ -299,6 +300,7 @@ nav:first-of-type li img {
 /*====================*/
 
 
+.grid-agency,
 .grid-bar {
 
     display: grid;
@@ -309,12 +311,17 @@ nav:first-of-type li img {
 
 }
 
+.grid-agency>div,
+.grid-bar>div {
 
+    align-self: center;
+
+}
 
 @media only screen {
 
-    @media (min-width : 768px) {.grid-bar{grid-template-columns: repeat(2,1fr);} }
-    @media (max-width : 768px) {.grid-bar{grid-template-columns: repeat(1,1fr);} }
+    @media (min-width : 768px) {.grid-agency,.grid-bar{grid-template-columns: repeat(2,1fr);} }
+    @media (max-width : 768px) {.grid-agency,.grid-bar{grid-template-columns: repeat(1,1fr);} }
 
 }
 
@@ -372,28 +379,31 @@ nav:first-of-type li img {
 .pop-definition {
 
     background: var(--dark);
-    border-radius: calc(var(--base_radius)/5);
+    border-radius: calc(var(--base_radius)/1.75);
     margin: var(--base_pad);
     overflow: hidden;
+
 }
 
-.pop-definition>*:not(strong){
+.pop-definition>*:not(span){
 
     cursor: help;
 
 } 
-.pop-definition i{
+.pop-definition img{
+    height: 100%;
+    max-width: 25px;
     background: var(--light);
-    padding: 3px;
+    padding: 4px;
 }
 
 .pop-definition dfn{
-    background: var(--dark);
     padding: 3px 9px;
 }
 
 
-.pop-definition strong{
+.pop-definition span{
+    transition: opacity 1s, width 0s, height 0s;
     z-index: -1;
     visibility: 0;
     opacity: 0;
@@ -401,9 +411,9 @@ nav:first-of-type li img {
     width: 0;
 }
 
-.pop-definition[open] strong {
+.pop-definition[open] span {
 
-    transition: opacity 1s;
+    transition:  opacity 1s, width 0s, height 0s;
     opacity: 1;
     position: fixed;
     z-index: 999;
@@ -420,7 +430,7 @@ nav:first-of-type li img {
     box-shadow: 0 0 0 10px var(--dark), 0px 10px 50px var(--dark);
 
 }
-.pop-definition strong::after {
+.pop-definition span::after {
  
     position: absolute;
     bottom: 0;
@@ -501,6 +511,20 @@ nav:first-of-type li img {
 }
 
 
+.sideline {
+
+    border-left: 5px solid var(--color);
+    padding-left: 15px;
+
+}
+@media only screen and (max-width : 768px) {
+    .grid-agency picture:first-of-type {
+        margin-bottom: 30px;
+    }
+}
+
+
+/*=====================*/
 
 button:hover {
 
@@ -517,4 +541,27 @@ button {
     color: var(--white);
     box-shadow: 0,0; 
 
+}
+
+/*=====================*/
+
+picture{
+
+    border-radius: var(--base_radius);
+
+}
+
+img[src$='corner.plus.svg']
+{
+    position: absolute;
+    width: 25%;
+    top:0;
+    right: 0;
+}
+img[src$='corner.color.svg']
+{
+    position: absolute;
+    width: 25%;
+    bottom:0;
+    left: 0;
 }

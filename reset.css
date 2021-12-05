@@ -177,7 +177,16 @@ hr {
 
 }
 
+picture {
 
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+}
+picture img:first-of-type{
+    object-fit: cover;
+}
 
 h1,         /*title*/
 h2,         /*title*/
@@ -187,9 +196,9 @@ h5,         /*title*/
 h6,         /*title*/
 a,          /*links*/
 p,          /*paragraph*/
-u,ins,      /*subline misspelled words*/
 b,          /*bold text without any importance*/
-strong,     /*seo bold*/
+u,ins,      /*subline misspelled words*/
+strong,     /*seo mark*/
 i,em,       /*italic*/
 caption,    /*ad image description*/
 q,          /*quoted*/
@@ -219,6 +228,8 @@ th          /*table head element*/ {
 
 }
 
+p,
+p>*,
 h1>*,
 h2>*,
 h3>*,
@@ -226,14 +237,14 @@ h4>*,
 h5>*,
 h6>*,
 a>*,
-p>*,
-caption>*,
 q>*,
 small>*,
-big>* {
+big>*,
+caption>*
+{
 
-    display: inline-flex;
-    vertical-align: baseline;
+    display: inline;
+    vertical-align: middle;
 
 }
 
