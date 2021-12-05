@@ -18,11 +18,12 @@
     direction: ltr;
     overflow-wrap: anywhere;
     text-decoration: none;
-    letter-spacing:initial;
     word-spacing: normal;
     word-break: keep-all;
     word-wrap: break-word;
     font-family: var(--fontfamily);
+    letter-spacing:inherit;
+    line-height: inherit;
     font-size-adjust: none;
     font-weight: lighter;
     font-size: inherit;
