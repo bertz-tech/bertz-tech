@@ -53,7 +53,7 @@
 	# Data interchange
 	ExpiresByType application/json                      "access plus 0 seconds"
 	ExpiresByType application/xml                       "access plus 0 seconds"
-	ExpiresByType text/xml                              "access plus 0 seconds"
+	ExpiresByType text/xml                              "access plus 1 month"
 
 	# Favicon (cannot be renamed!)
 	ExpiresByType image/x-icon                          "access plus 1 week"
