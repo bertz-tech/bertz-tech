@@ -196,23 +196,13 @@ h5,         /*title*/
 h6,         /*title*/
 a,          /*links*/
 p,          /*paragraph*/
-b,          /*bold text without any importance*/
-u,ins,      /*subline misspelled words*/
-strong,     /*seo mark*/
-i,em,       /*italic*/
+em,       /*italic*/
 caption,    /*ad image description*/
-q,          /*quoted*/
 cite,       /*"defines the title of a creative work" || citation attribute url <p cite="url.com"></p>*/
-s,del,      /*graphical strike uncorrect, tag for deleted*/
-mark,       /*highlighted*/
 small,      /*sub importance text*/
 big,        /*W3C-OSOLETE*/
 pre,        /*defines preformatted text*/
-var,        /*used only for math expression, graphically it's alternative of i*/
 code,       /*view a piece of computer code*/
-samp,       /*inline code outputs*/
-dfn,        /**inline narked subject title of a wiki definition*/
-kbd,        /*keyboard key or shortcuts*/
 ul,         /*unorder list*/
 ol,         /*ordered stepped list*/
 li,         /*un/orderered list item*/
@@ -229,6 +219,40 @@ th          /*table head element*/ {
 }
 
 p,
+b,          /*bold text without any importance*/
+i,          /*graphical oblique*/
+u,ins,      /*subline misspelled words*/
+strong,     /*seo mark*/
+q,          /*quoted*/
+s,del,      /*graphical strike uncorrect, tag for deleted*/
+mark,       /*highlighted*/
+var,        /*used only for math expression, graphically it's alternative of i*/
+samp,       /*inline code outputs*/
+dfn,        /**inline narked subject title of a wiki definition*/
+kbd        /*keyboard key or shortcuts*/ {
+
+    display: inline;
+    vertical-align: middle;
+
+}
+
+p>img,
+h1>img,
+h2>img,
+h3>img,
+h4>img,
+h5>img,
+h6>img,
+a>img,
+q>img,
+small>img,
+big>img,
+caption>img {
+
+    vertical-align: inherit;
+
+}
+
 p>*,
 h1>*,
 h2>*,
@@ -240,13 +264,13 @@ a>*,
 q>*,
 small>*,
 big>*,
-caption>*
-{
+caption>* {
 
     display: inline;
-    vertical-align: middle;
+    vertical-align: baseline;
 
 }
+
 
 span {
     display: inline-flex;

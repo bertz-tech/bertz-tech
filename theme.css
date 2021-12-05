@@ -299,29 +299,22 @@ nav:first-of-type li img {
 
 /*====================*/
 
-
-.grid-agency,
-.grid-bar {
+.grid {
 
     display: grid;
 	position: relative;
 	gap: 2vw;
 	grid-template-rows:  minmax(0, max-content);
-    margin: var(--text_super) 0;
-
 }
 
-.grid-agency>div,
-.grid-bar>div {
-
+.grid>* {
     align-self: center;
-
 }
 
 @media only screen {
 
-    @media (min-width : 768px) {.grid-agency,.grid-bar{grid-template-columns: repeat(2,1fr);} }
-    @media (max-width : 768px) {.grid-agency,.grid-bar{grid-template-columns: repeat(1,1fr);} }
+    @media (min-width : 768px) {.grid {grid-template-columns: repeat(2,1fr);} }
+    @media (max-width : 768px) {.grid {grid-template-columns: repeat(1,1fr);} }
 
 }
 
@@ -517,12 +510,27 @@ nav:first-of-type li img {
     padding-left: 15px;
 
 }
+
+#agency .grid {
+
+    margin-bottom: var(--text_super);
+    
+}
+
 @media only screen and (max-width : 768px) {
-    .grid-agency picture:first-of-type {
+    #agency picture:first-of-type {
         margin-bottom: 30px;
     }
 }
 
+/*=====================*/
+
+#info .grid {
+
+    margin-bottom: var(--text_super);
+    margin-top: var(--text_super);
+    
+}
 
 /*=====================*/
 
@@ -558,10 +566,49 @@ img[src$='corner.plus.svg']
     top:0;
     right: 0;
 }
+
 img[src$='corner.color.svg']
 {
     position: absolute;
     width: 25%;
     bottom:0;
     left: 0;
+}
+
+
+/*=====================*/
+
+
+@media only screen{
+    @media (min-width : 768px) {
+        #noasap.grid {
+            grid-template-columns: 22% auto;
+        }
+    }
+    @media (max-width : 768px) {
+        #noasap.grid {
+            grid-template-columns: 0% auto;
+        }
+    }
+}
+
+#noasap cite {
+    margin-top: 30px;
+}
+
+#noasap h4 {
+    margin-top: 0;
+}
+
+
+img[src$='prontoprologo.svg'] { 
+
+    max-width: 160px;
+    margin-bottom: 20px;
+
+}
+
+img[src$='noasap.svg'] { 
+
+    max-height: clamp(150px, 15vw, 250px);;
 }
