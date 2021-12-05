@@ -2,28 +2,28 @@
 ## REWRITE
 <IfModule mod_rewrite.c>
 
-	RewriteOptions inherit
-	RewriteEngine on
-	RewriteBase /
-	# RewriteCond %{HTTP:X-Forwarded-SSL} !on
-
-	## remove www
-	RewriteCond %{HTTP_HOST} ^www\.%{HTTP_HOST}$
-	RewriteRule ^/?$ "https\:\/\/%{HTTP_HOST}/$1" [NC]
-
-	## hide front-office in url
-	RewriteCond %{DOCUMENT_ROOT}/$1 !-f [or]
-	RewriteCond %{DOCUMENT_ROOT}/$1 -d [or]
-	RewriteCond %{DOCUMENT_ROOT}/front-office/$1 -d
-	RewriteRule (?!^front-office/)^(.*)$ /front-office/$1 [NC]
-
-	## 404
-	#RewriteRule ^(.*)php$ - [L]
-	RewriteCond %{REQUEST_FILENAME} !^/
-	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteCond %{REQUEST_FILENAME} !-d
-	RewriteCond %{REQUEST_FILENAME} !-l
-	RewriteRule ^ https://%{HTTP_HOST}/404.php [R=301,NC,L]
+#	RewriteOptions inherit
+#	RewriteEngine on
+#	RewriteBase /
+#	# RewriteCond %{HTTP:X-Forwarded-SSL} !on
+#
+#	## remove www
+#	RewriteCond %{HTTP_HOST} ^www\.%{HTTP_HOST}$
+#	RewriteRule ^/?$ "https\:\/\/%{HTTP_HOST}/$1" [NC]
+#
+#	## hide front-office in url
+#	RewriteCond %{DOCUMENT_ROOT}/$1 !-f [or]
+#	RewriteCond %{DOCUMENT_ROOT}/$1 -d [or]
+#	RewriteCond %{DOCUMENT_ROOT}/front-office/$1 -d
+#	RewriteRule (?!^front-office/)^(.*)$ /front-office/$1 [NC]
+#
+#	## 404
+#	#RewriteRule ^(.*)php$ - [L]
+#	RewriteCond %{REQUEST_FILENAME} !^/
+#	RewriteCond %{REQUEST_FILENAME} !-f
+#	RewriteCond %{REQUEST_FILENAME} !-d
+#	RewriteCond %{REQUEST_FILENAME} !-l
+#	RewriteRule ^ https://%{HTTP_HOST}/404.php [R=301,NC,L]
 
 </ifModule>
 
