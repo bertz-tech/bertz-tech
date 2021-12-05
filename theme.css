@@ -197,8 +197,18 @@ article h2 {
 article h3 {
 
     font-size: var(--text_big);
-    font-weight: 900;
+    font-weight: 700;
     margin-bottom: 30px;
+
+}
+
+article h4 {
+
+    font-size: var(--text_medium);
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
 
 }
 
@@ -231,14 +241,10 @@ article p, a{
     line-height: 180%;
 
 }
+
 article a {
+
     font-weight: 700;
-}
-
-article section:first-of-type>p:first-of-type {
-
-    font-size: var(--text_medium);
-    font-weight: 900;
 
 }
 
@@ -495,18 +501,20 @@ nav:first-of-type li img {
 }
 
 
+
+button:hover {
+
+    background: var(--shade);
+    box-shadow: 0 0 1rem .25rem white inset, 0 -1px 10px 3px #00000054, 0 4px 27px #00f0ffb8; 
+
+}
+
 button {
 
     border-radius: var(--base_radius);
     padding: var(--base_pad);
     background: var(--light);
     color: var(--white);
-
-}
-
-button:hover {
-
-    background: var(--shade);
-    box-shadow: 0 0 1rem .25rem white inset, 0 -1px 10px 3px #00000054, 0 4px 27px #00f0ffb8; 
+    box-shadow: 0,0; 
 
 }
