@@ -1,3 +1,3 @@
-sitemap:   http://sitemap.xml;
+sitemap:   https://sitemap.xml;
 User-agent:*
 Crawl-delay: 2
