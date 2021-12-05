@@ -61,7 +61,7 @@ body>.limiter>div {
     overflow: clip;    
     margin: var(--base_space);
     border-radius: var(--base_radius);
-    background: url(./assets/media/bkg.head.top.left.jpg) left top no-repeat var(--dark);
+    background: url(./assets/media/bkg.head.top.left.webp) left top no-repeat var(--dark);
     background-size: 93% auto;
 
 }
@@ -118,7 +118,7 @@ article>header {
 
 }
 
-article>header img[src$='bkg.head.faceprofile.png'] {
+article>header img[src$='bkg.head.faceprofile.webp'] {
 
     width: 376px;
     height: 634px;
@@ -135,7 +135,7 @@ article>header img[src$='bkg.head.faceprofile.png'] {
         article>header>hgroup:first-of-type{width:66%;}
         article>header>hgroup:last-of-type{width:33%;}
 
-        article>header img[src$='bkg.head.faceprofile.png'] {
+        article>header img[src$='bkg.head.faceprofile.webp'] {
 
             position: absolute;
 
@@ -166,7 +166,7 @@ article>header img[src$='bkg.head.faceprofile.png'] {
         
         }
 
-        article>header img[src$='bkg.head.faceprofile.png'] {
+        article>header img[src$='bkg.head.faceprofile.webp'] {
 
             position: relative;
             padding-right: 9vw;
