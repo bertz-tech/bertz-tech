@@ -728,3 +728,10 @@ img[src$='noasap.svg'] {
     color: var(--color);
 
 }
+
+
+[href^="#start"]{
+
+    margin: 0 auto 20px auto;    
+
+}
