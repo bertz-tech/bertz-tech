@@ -258,6 +258,7 @@ article p+p {
 
 footer {
 
+    text-align: center;
     margin: 10px calc(var(--base_space)*3) 30px calc(var(--base_space)*3);
     color: #ccc;
 }
