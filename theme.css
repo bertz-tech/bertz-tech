@@ -55,7 +55,6 @@ body {
     
 }
 
-
 body>.limiter>div {
 
     overflow: clip;    
@@ -257,6 +256,12 @@ article p+p {
 }
 
 
+footer {
+
+    margin: 10px calc(var(--base_space)*3) 30px calc(var(--base_space)*3);
+    color: #ccc;
+}
+
 /*=====================*/
 
 
@@ -293,7 +298,7 @@ nav:first-of-type li  {
 
 nav:first-of-type li img {
 
-    width: calc(var(--text_big)/1.3);
+    width: 25px; /*calc(var(--text_big)/1.3)*/
 
 }
 
@@ -613,4 +618,113 @@ img[src$='prontoprologo.svg'] {
 img[src$='noasap.svg'] { 
 
     max-height: clamp(150px, 15vw, 250px);;
+}
+
+
+
+/*=====================*/
+
+
+#social-links p {
+    
+    font-size: var(--text_medium);
+    font-weight: 700;
+
+}
+@media only screen{
+    @media (min-width : 768px) {
+        #social-links p{ margin: -15px 0 25px 0; }
+    }
+}
+
+
+#social-links picture {
+
+    width: 100%;
+    max-height: 170px;
+
+}
+
+
+
+/*=====================*/
+
+#pitch>div:first-of-type {
+
+    margin-bottom: 75px;
+    flex-flow: row;
+    gap: 20px;
+}
+
+#pitch>div:first-of-type>div{
+
+    align-self: center;
+
+}
+
+#pitch>div:first-of-type h3 {
+
+    text-align: left;
+
+}
+
+#pitch>div:first-of-type small {
+
+    display: block;
+    font-size: var(--text_normal);
+
+}
+
+#pitch>div:first-of-type img {
+
+    width: 55%;
+    border-radius: var(--base_radius);
+    margin-right: 20px;
+
+}
+
+
+@media only screen{
+    @media (max-width : 767px) {
+
+        #pitch>div:first-of-type  {
+
+            flex-wrap: wrap-reverse;
+
+        }
+
+        #pitch>div:first-of-type>div  {
+            width: 100%;
+        }
+
+        #pitch>div:first-of-type>div {
+
+            align-self: unset;
+        
+        }
+
+        #pitch>div:first-of-type img {
+
+            width: 100%;
+
+        }
+
+    }
+}
+
+
+@media only screen{
+    @media (max-width : 767px) {
+
+        #pitch .grid {
+
+            gap:30px
+        }
+    }   
+}
+
+#pitch .grid i {
+
+    color: var(--color);
+
 }

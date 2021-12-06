@@ -178,17 +178,6 @@ hr {
 
 }
 
-picture {
-
-    display: flex;
-    overflow: hidden;
-    position: relative;
-    height: 100%;
-}
-picture img:first-of-type{
-    object-fit: cover;
-}
-
 h1,         /*title*/
 h2,         /*title*/
 h3,         /*title*/
@@ -332,6 +321,24 @@ output {
     -webkit-hyphens: none;
     hyphens: none;
 
+
+}
+
+picture {
+
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+
+}
+
+picture img:first-of-type{
+
+    height: auto;
+    min-width: 100%;
+    object-fit: cover;
 
 }
 
