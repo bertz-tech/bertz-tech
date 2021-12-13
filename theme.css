@@ -567,6 +567,12 @@ picture{
 
 }
 
+picture>img:first-child{
+
+    min-height: 150px;
+
+}
+
 img[src$='corner.plus.svg']
 {
     position: absolute;
