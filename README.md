@@ -32,7 +32,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
     <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
   </a>
   &nbsp;
-  <a align="center" target="_blank" href="https://google.com/" disabled>
+  <a align="center" target="_blank" href="https://bertz.tech/">
     <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
   </a>
   &nbsp;
