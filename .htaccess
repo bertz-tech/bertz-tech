@@ -124,7 +124,6 @@
 	AddOutputFilterByType DEFLATE font/ttf
 	AddOutputFilterByType DEFLATE image/svg+xml
 	AddOutputFilterByType DEFLATE image/x-icon
-	AddOutputFilterByType DEFLATE text/text
 	AddOutputFilterByType DEFLATE text/html
 	AddOutputFilterByType DEFLATE text/css
 	AddOutputFilterByType DEFLATE text/javascript
