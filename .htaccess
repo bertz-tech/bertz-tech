@@ -138,8 +138,12 @@
 	BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
 	Header append Vary User-Agent
 
-</IfModule>
+	<IfModule mod_headers.c>
+		Header unset ETag
+		FileETag None
+	</IfModule>
 
+</IfModule>
 
 ## INPUTS
 <IfModule php7_module>
