@@ -42,6 +42,11 @@
 
 
 ## CACHING
+
+AddDefaultCharset Off
+AddType 'text/html; charset=UTF-8' html    
+AddType image/webp .webp
+
 <ifModule mod_expires.c>
 
 	ExpiresActive on
@@ -80,13 +85,14 @@
 	ExpiresByType application/vnd.ms-fontobject         "access plus 3 month"
 	ExpiresByType application/x-font-ttf                "access plus 3 month"
 	ExpiresByType font/opentype                         "access plus 3 month"
-	ExpiresByType image/svg+xml                         "access plus 3 month"
 
 	# Media
-	ExpiresByType audio/ogg                             "access plus 3 month"
+	ExpiresByType image/svg+xml                         "access plus 3 month"
 	ExpiresByType image/gif                             "access plus 3 month"
 	ExpiresByType image/jpeg                            "access plus 3 month"
+	ExpiresByType image/webp                            "access plus 3 month"
 	ExpiresByType image/png                             "access plus 3 month"
+	ExpiresByType audio/ogg                             "access plus 3 month"
 	ExpiresByType video/mp4                             "access plus 3 month"
 	ExpiresByType video/ogg                             "access plus 3 month"
 	ExpiresByType video/webm                            "access plus 3 month"
