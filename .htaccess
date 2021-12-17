@@ -45,7 +45,7 @@
 <ifModule mod_expires.c>
 
 	ExpiresActive on
-	ExpiresDefault                                      "access plus 1 month"
+    ExpiresDefault                                      "access plus 3 month"
 
 	# CSS
 	ExpiresByType text/css                              "access plus 1 month"
@@ -133,10 +133,10 @@
 	## FIXING
 
 	## Remove browser bugs (only needed for really old browsers)
-	# BrowserMatch ^Mozilla/4 gzip-only-text/html
-	# BrowserMatch ^Mozilla/4\.0[678] no-gzip
-	# BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
-	# Header append Vary User-Agent
+	BrowserMatch ^Mozilla/4 gzip-only-text/html
+	BrowserMatch ^Mozilla/4\.0[678] no-gzip
+	BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+	Header append Vary User-Agent
 
 </IfModule>
 
