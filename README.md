@@ -53,7 +53,6 @@ _"Simplicity is the ultimate sophisticaton" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;|
 
 ![](https://img.shields.io/badge/OS-Debian-informational?style=flat-square&logo=debian&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=aqua)
-![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=Apple&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Cmd-Terminal-informational?style=flat-square&logo=Windows-Terminal&logoColor=white&color=aqua)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=aqua)
@@ -104,7 +103,10 @@ custom stats:
   [![bertz's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e)](https://github.com/bertz-tech/github-readme-stats)
   src="https://github-readme-stats.vercel.app/api/wakatime?username=ebfeebe0-ae51-4c38-8521-9b0bf9402c6e&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"
 
+![](https://img.shields.io/badge/OS-Apple-informational?style=flat-square&logo=Apple&logoColor=white&color=aqua)
 
 https://bertz-tech.github.io/
 https://bertz.tech/
+
+
 -->
