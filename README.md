@@ -1,6 +1,6 @@
 <div align="center">
 
-_"Simplicity is the ultimate sophisticaton" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
+_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
 
 <hr>
   
