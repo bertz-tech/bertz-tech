@@ -1,6 +1,6 @@
 <div align="center">
 
-_this readme is work in progress, come back in a few days to see the news and fix_
+_"Simplicity is the ultimate sophisticaton" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
 
 <hr>
   
