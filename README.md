@@ -83,11 +83,16 @@ _"Simplicity is the ultimate sophisticaton" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;|
 </div>
 
 ### Open Projects:
-
-- [wordpress project station](https://github.com/wordpress-projects-station)<br>
-  An open collection of resources and extensions for wordpress
-- [Kimera css framework](https://github.com/ShapeGroup/kimera-frontend-framework)<br>
-  An open ui web framework of web 2.0 [is out of update]
+<a href="https://github.com/wordpress-projects-station" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/99553034?s=64&amp;v=4" size="50" height="50" width="50" align="left">
+    <b>wordpress project station</b><br>
+    An open collection of resources and extensions for wordpress
+</a><br><br>
+<a href="https://github.com/ShapeGroup/kimera-frontend-framework" target="_blank">
+    <img src="https://user-images.githubusercontent.com/92259138/153724707-18a7c837-0840-4e21-b7d7-48caa7dd62b1.png" size="50" height="50" width="50" align="left">
+    <b>kimera frontend framework</b><br>
+    An open ui web framework of web 2.0 
+</a>
 
 
 
