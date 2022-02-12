@@ -9,9 +9,9 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <hr>
 
 <table><tr><td>
-<br>
+  <img alt="bertz works tech hub" align="right" width="245" src="https://media2.giphy.com/media/lxnMIgN9pwZf0yMVPD/giphy.gif?cid=790b7611a39760a932fd1ff4c72c86c4fd39e89a7c06e820&rid=giphy.gif&ct=g" />
 <div>
-  &nbsp;
+  <br>
   <a align="center" href="https://www.instagram.com/bertz.tech/">
     <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
   </a>
@@ -35,20 +35,19 @@ _this readme is work in progress, come back in a few days to see the news and fi
   <a align="center" target="_blank" href="https://bertz.tech/">
     <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
   </a>
-  &nbsp;
 </div>
-
 <br>
-  
+<div>
 <b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b><br>
 👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b> <br>
 `"An ex creativedirector passed to darkside of force... the coding."`
 <br>
 56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
-
+</div>
 </td></tr></table>
   
-<hr>
+
+<hr align="center">
   
 ## <b>🚀🧠 systems, tools and technologies</b>
 
@@ -83,6 +82,14 @@ _this readme is work in progress, come back in a few days to see the news and fi
 
 
 </div>
+
+### Open Projects:
+
+- [wordpress project station](https://github.com/wordpress-projects-station)<br>
+  An open collection of resources and extensions for wordpress
+- [Kimera css framework](https://github.com/ShapeGroup/kimera-frontend-framework)<br>
+  An open ui web framework of web 2.0 [is out of update]
+
 
 
 <!--
