@@ -9,7 +9,7 @@ _this readme is work in progress, come back in a few days to see the news and fi
 <hr>
 
 <table><tr><td>
-  <img alt="bertz works tech hub" align="right" width="245" src="https://media2.giphy.com/media/lxnMIgN9pwZf0yMVPD/giphy.gif?cid=790b7611a39760a932fd1ff4c72c86c4fd39e89a7c06e820&rid=giphy.gif&ct=g" />
+  <img alt="bertz works tech hub" align="right" width="250" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />
 <div>
   <br>
   <a align="center" href="https://www.instagram.com/bertz.tech/">
