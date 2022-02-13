@@ -84,7 +84,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Open Projects:
 <a href="https://github.com/wordpress-projects-station" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/99553034?s=64&amp;v=4" size="50" height="50" width="50" align="left">
+    <img src="https://avatars.githubusercontent.com/u/99553034?s=400&u=599ea74cf6775c1590113156d7f325884aef745a&v=4" size="50" height="50" width="50" align="left">
     <b>wordpress project station</b><br>
     An open collection of resources and extensions for wordpress
 </a><br><br>
