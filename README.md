@@ -11,14 +11,15 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 <table><tr><td>
   <img alt="bertz works tech hub" align="right" width="220" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />
 <br>
-<div>
-<b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b><br>
-👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b>
-<br>
-  <code>"An ex creativedirector passed to darkside of force... the coding."</code>
-<br>
-56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.<br>
-<div>
+  <div>
+    <b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b><br>
+    👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b>
+    <br>
+    <code>"An ex creative passed to darkside of force... the coding."</code>
+    <br>
+    56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
+    <br>
+  <div>
 <br>
 <a align="center" href="https://www.instagram.com/bertz.tech/">
   <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
