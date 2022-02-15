@@ -9,7 +9,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
 <table><tr><td>
-  <img alt="bertz works tech hub" align="right" width="240" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />
+  <img alt="bertz works tech hub" align="right" width="250" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />
 <br>
 <div>
 <b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b><br>
