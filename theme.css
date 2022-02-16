@@ -2,7 +2,7 @@
 
 :root {
 
-    --shade:       linear-gradient(to right bottom, #00ffff, #0085ff);
+    --shade:     linear-gradient(to right, #87ffe3, #00eeff)/*linear-gradient(to right bottom, #00ffff, #0085ff);*/
     --color:     #00FFFF;
     --black:     #191F31;
     --dark:      #00000054;
