@@ -76,7 +76,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz-tech&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz-tech&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
 
 <hr>
 
