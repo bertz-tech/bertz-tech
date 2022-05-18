@@ -527,6 +527,7 @@ div.linkpicture {
 
 div.linkpicture>img:first-child {
     min-height: 150px;
+    object-fit: cover;
 }
 
 img[src$='corner.plus.svg'] {
