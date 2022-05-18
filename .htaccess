@@ -1,5 +1,13 @@
 
+## SET/ADD FILETYPES
+
+AddDefaultCharset utf-8
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+AddType image/webp .webp
+
+
 ## REWRITE
+
 <IfModule mod_rewrite.c>
 
 #	RewriteOptions inherit
@@ -25,16 +33,16 @@
 #	RewriteCond %{REQUEST_FILENAME} !-l
 #	RewriteRule ^ https://%{HTTP_HOST}/404.php [R=301,NC,L]
 
-</ifModule>
+</IfModule>
 
 
 ## HEADERS
+
 <IfModule mod_headers.c>
 
 
 	SetEnvIf Origin "http(s)?://(www\.)?(bertz.tech|api.bertz.tech|dev-web-bertz/)$" AccessControlAllowOrigin=$0$1
 
-	Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" env=HTTPS
 
 	Header add Access-Control-Allow-Origin %{AccessControlAllowOrigin}e env=AccessControlAllowOrigin
 	Header set Access-Control-Allow-Credentials true
@@ -42,20 +50,18 @@
 	Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type"
 	Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS"
 
+	Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" env=HTTPS
+
+	<filesMatch ".(html|css|webp|jpg|jpeg|png|gif|js|ico|mp4|ogg|webm)$">
+		Header set Cache-Control "max-age=2592000, public"
+	</filesMatch>
+
 </IfModule>
 
 
 ## CACHING
 
-AddDefaultCharset utf-8
-AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
-AddType image/webp .webp
-
-<filesMatch ".(html|css|webp|jpg|jpeg|png|gif|js|ico|mp4|ogg|webm)$">
-	Header set Cache-Control "max-age=2592000, public"
-</filesMatch>
-
-<ifModule mod_expires.c>
+<IfModule mod_expires.c>
 
 	ExpiresActive on
     ExpiresDefault                                      "access plus 6 month"
@@ -101,10 +107,11 @@ AddType image/webp .webp
 	ExpiresByType video/ogg                             "access plus 3 month"
 	ExpiresByType video/webm                            "access plus 3 month"
 
-</ifModule>
+</IfModule>
 
 
 ## COMPRESSION
+
 <IfModule mod_gzip.c>
     mod_gzip_on       Yes
     mod_gzip_dechunk  Yes
@@ -172,6 +179,7 @@ AddType image/webp .webp
 </IfModule>
 
 ## INPUTS
+
 <IfModule php7_module>
 
    php_flag display_errors On
@@ -200,12 +208,4 @@ AddType image/webp .webp
    php_flag zlib.output_compression On
    #php_value session.save_path "/var/cpanel/php/sessions/ea-php74"
 
-</IfModule>
-
-
-## Set the “ea-php74” package as the default “PHP” programming language.
-## php -- BEGIN cPanel-generated handler, do not edit
-<IfModule mime_module>
-#	AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
-#	AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
 </IfModule>
