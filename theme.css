@@ -580,7 +580,7 @@ img[src$='noasap.svg'] {
 
 /*=====================*/
 
-#social-links p {
+#social-links h5 {
     font-size: var(--text_medium);
     font-weight: 700;
 }
@@ -596,6 +596,11 @@ img[src$='noasap.svg'] {
 #social-links div.linkpicture {
     width: 100%;
     max-height: 170px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    justify-content: center;
 }
 
 
