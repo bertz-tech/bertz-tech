@@ -1,6 +1,6 @@
 <div align="center">
 
-_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
+_"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[ OPEN ME ONLINE ➜ ](https://bertz.tech/)**
 
 <hr>
   
@@ -9,48 +9,48 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
 <table><tr><td>
-  <img alt="bertz works tech hub" align="right" width="220" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />
+  <!--<img alt="bertz works tech hub" align="right" width="220" src="https://github.com/bertz-tech/bertz-tech/blob/master/resources/cyber.gif?raw=true" />-->
 <br>
-  <div>
+  <div align="center">
     <b>DIGIΓΔL / IT ROMA</b><br>BERTZ.WORKS / SHAPE DIGITAL GROUP<b><br>
     👋 Hello World! I’m Alberto Marà, aka @bertz-tech </b>
     <br>
     <code>"An ex creative passed to darkside of force... the coding."</code>
     <br>
-    56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now I  make modern designs and software structures, line by line and code by code.
+    <br>
+    <a align="center" href="https://www.instagram.com/bertz.tech/">
+      <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
+    </a>
+    &nbsp;
+    <a align="center" target="_blank" href="https://github.com/bertz-tech/" disabled>
+      <img alt="Bertz Alberto Marà news" width="30px" src="./resources/github.png" />
+    </a>
+    <!--
+    &nbsp;
+    <a align="center" target="_blank" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
+      <img alt="Bertz Allberto Marà linkedin" width="30px" src="./resources/linkedin.png" />
+    </a>
+    &nbsp;
+    <a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
+      <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/spotify.png" />
+    </a>
+    -->
+    &nbsp;
+    <a align="center" target="_blank" href="https://www.pinterest.it/bertz_pins">
+      <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
+    </a>
+    &nbsp;
+    <a align="center" target="_blank" href="https://bertz.tech/">
+      <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
+    </a>
+    <br>
+    56K Generation. I'm started with tapes in commodore 64 (floppies was rare), now <wbr>I make modern designs and software structures, line by line and code by code.
     <br>
   <div>
 <br>
-<a align="center" href="https://www.instagram.com/bertz.tech/">
-  <img alt="Bertz Alberto Marà isntagram" width="30px" src="./resources/instagram.png" />
-</a>
-&nbsp;
-<a align="center" target="_blank" href="https://github.com/bertz-tech/" disabled>
-  <img alt="Bertz Alberto Marà news" width="30px" src="./resources/github.png" />
-</a>
-<!--
-&nbsp;
-<a align="center" target="_blank" href="https://it.linkedin.com/in/amara-linked?trk=people-guest_people_search-card">
-  <img alt="Bertz Allberto Marà linkedin" width="30px" src="./resources/linkedin.png" />
-</a>
-&nbsp;
-<a align="center" target="_blank" href="https://open.spotify.com/user/11175267789?si=74cd3883240641c6">
-  <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/spotify.png" />
-</a>
--->
-&nbsp;
-<a align="center" target="_blank" href="https://www.pinterest.it/bertz_pins">
-  <img alt="Bertz Alberto Marà spotify" width="30px" src="./resources/pinterest.png" />
-</a>
-&nbsp;
-<a align="center" target="_blank" href="https://bertz.tech/">
-  <img alt="Bertz Alberto Marà google" width="30px" src="./resources/google.png" />
-</a>
-</div>
 </div>
 </td></tr></table>
   
-
 <hr align="center">
   
 ## <b>🚀🧠 systems, tools and technologies</b>
@@ -76,7 +76,7 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz-tech&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=bertz-tech&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&text_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmoke"/><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bertz-tech&langs_count=7&custom_title=Runtime&nbsp;Stats&hide_border=false&titletext_color=dimgray&title_color=cyan&icon_color=aqua&bg_color=WhiteSmok"/>
 
 <hr>
 
