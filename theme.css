@@ -583,6 +583,7 @@ img[src$='noasap.svg'] {
 #social-links h5 {
     font-size: var(--text_medium);
     font-weight: 700;
+    margin: -15px 0 25px 0;
 }
 
 @media only screen {
