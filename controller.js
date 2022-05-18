@@ -13,7 +13,7 @@ window.onload = () => {
     let disabled = document.querySelectorAll('*:disabled, [aria-disabled=true], [data-disabled=true]')
 
     for (let element of disabled) {
-        box.onclick = ev_disable_controller => {
+        element.onclick = ev_disable_controller => {
             ev_disable_controller.preventDefault()
             return false;
         }
