@@ -36,7 +36,9 @@
     color: #ffc400;
 }
 
-[disabled] {
+*:disabled,
+[aria-disabled=true],
+[data-disabled=true] {
     opacity: .5;
 }
 

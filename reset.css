@@ -37,7 +37,6 @@
 [aria-disabled=true],
 [data-disabled=true] {
     pointer-events: none;
-    text-decoration: none;
 }
 
 *,
