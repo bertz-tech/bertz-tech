@@ -97,6 +97,12 @@ _"Simplicity is the ultimate sophistication" (Da Vinci)_&nbsp;&nbsp;&nbsp;&nbsp;
     <b>kimera frontend framework</b><br>
     An open ui web framework of web 2.0 
 </a>
+<br><br>
+<a href="https://github.com/jsrt-project" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/109235940?s=200&v=4" size="50" height="50" width="50" align="left">
+    <b>JSRT : javascript random techniques</b><br>
+    A collection of js commons and random patterns 
+</a>
 
 
 
